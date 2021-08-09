@@ -4,5 +4,5 @@ A collection of cheat-sheet and scripts written in python and Go maybe for Attac
 # Done
 Proxy Port Forwarding
 ```bash
-python3 
+~$ python3 PortFormatProxy.py <localPort> <remotHost> <remotePort>
 ``` 
